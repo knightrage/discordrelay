@@ -5,6 +5,8 @@ Open Project.cs, add your custom Webhook URL and set your .txt file location.
 <br>
 <br>
 <br>
+<br>
+<br>
 **To build the .exe, run the following command from the project folder:**
 <br>
 <br>
