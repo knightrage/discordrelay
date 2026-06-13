@@ -1,0 +1,14 @@
+C:\Users\adams\DiscordRelay\bin\Release\net10.0\DiscordRelay.exe
+C:\Users\adams\DiscordRelay\bin\Release\net10.0\DiscordRelay.deps.json
+C:\Users\adams\DiscordRelay\bin\Release\net10.0\DiscordRelay.runtimeconfig.json
+C:\Users\adams\DiscordRelay\bin\Release\net10.0\DiscordRelay.dll
+C:\Users\adams\DiscordRelay\bin\Release\net10.0\DiscordRelay.pdb
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.AssemblyInfoInputs.cache
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.AssemblyInfo.cs
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.csproj.CoreCompileInputs.cache
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.dll
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\refint\DiscordRelay.dll
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.pdb
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\DiscordRelay.genruntimeconfig.cache
+C:\Users\adams\DiscordRelay\obj\Release\net10.0\ref\DiscordRelay.dll
